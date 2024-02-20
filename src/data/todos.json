@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "c03e79fc-e745-4c4b-8b77-98139c44515a",
+      "text": "coba nih ahh",
+      "complete": false
+    },
+    {
+      "id": "2c2fd3dc-f25a-40aa-bb30-4a2f470c3fff",
+      "text": "adasdasd",
+      "complete": false
+    },
+    {
+      "id": "f2a1d504-2c7d-4431-9717-f596fdd5544a",
+      "text": "adasdasd",
+      "complete": false
+    }
+  ]
+}
