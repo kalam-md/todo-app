@@ -12,6 +12,8 @@ Setelah itu jalankan diterminal lagi kode dibawah
 npm run json-server
 ```
 
+![Gambar 1](https://github.com/kalam-md/todo-app/blob/fix-todo/screenshoot/picture1.jpg)
+
 Buka [http://localhost:3000](http://localhost:3000) untuk melihat hasilnya
 Dan buka juga [http://localhost:3000](http://localhost:3001/tasks) untuk melihat API nya
 
